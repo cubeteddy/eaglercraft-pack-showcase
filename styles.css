@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Jersey 10", sans-serif;
+  font-family: "Jersey 10";
   margin: 0;
   background: var(--bg);
   color: var(--text);
@@ -133,4 +133,5 @@ footer {
   font-size: 0.9rem;
   color: var(--muted);
 }
+
 
